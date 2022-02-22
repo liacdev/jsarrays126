@@ -1,13 +1,117 @@
-body{
-    background-color: burlywood;
-   
+body {
+  background-color: burlywood;
 }
 
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
-div{
-    text-align: center;
-    margin-bottom: 20px;
+h2 {
+  text-align: center;
+}
+
+#maincanvas {
+  outline-color: rgb(179, 15, 255);
+  outline-width: 20px;
+  outline-style: solid;
+  flex: auto;
+  flex-direction: column;
+  padding: 20px;
+}
+
+#topicbox1 {
+  outline-color: rgb(185, 172, 48);
+  outline-width: 10px;
+  outline-style: solid;
+  height: 10rem;
+  border-radius: 100px;
+}
+
+#topicbox2 {
+  outline-color: rgb(101, 230, 197);
+  outline-width: 10px;
+  outline-style: solid;
+  height: 10rem;
+  border-radius: 90px;
+}
+
+#topicbox3 {
+  outline-color: rgb(117, 255, 75);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 80px;
+}
+
+#topicbox4 {
+  outline-color: rgb(255, 234, 116);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 70px;
+}
+
+#topicbox5 {
+  outline-color: rgb(207, 198, 255);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 60px;
+}
+
+#topicbox6 {
+  outline-color: rgb(255, 128, 44);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 50px;
+}
+
+#topicbox7 {
+  outline-color: rgb(255, 234, 116);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 40px;
+}
+
+#topicbox8 {
+  outline-color: rgb(234, 0, 255);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 30px;
+}
+
+#topicbox9 {
+  outline-color: rgb(255, 53, 38);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 20px;
+}
+
+#topicbox10 {
+  outline-color: rgb(17, 209, 0);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 10px;
+}
+
+#topicbox11 {
+  outline-color: rgb(255, 136, 0);
+  outline-width: 10px;
+  outline-style: solid;
+  text-align: center;
+  height: 10rem;
+  border-radius: 0px;
 }
